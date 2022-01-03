@@ -1,8 +1,8 @@
 numpy
-opencv-python
+opencv-python==4.2.0.34
 protobuf
 easydict
-pytorch
+torch
 pillow
 matplotlib
 wxpython
